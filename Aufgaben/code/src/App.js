@@ -1,7 +1,8 @@
 import './App.css';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
+import {useEffect} from "react";
+import Header from './Header';
+import {getLCP, getFID, getCLS} from 'web-vitals';
+
 import image_1 from './images/photo-1496171367470.png'
 import image_2 from './images/photo-1562408590.jpeg'
 import image_3 from './images/photo-1580584126903.jpeg'
@@ -49,7 +50,10 @@ const PHOTO_SET = [
     }
 ];
 function App() {
-    useWebVitals();
+    useEffect(() => {
+        // Code to execute on page first load
+
+    }, [])
     return (
     <>
         <AppBar position="static" color={"primary"}>
