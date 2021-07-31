@@ -9,7 +9,7 @@ yarn start oder npm start
 ```
 1. Messen Sie beim Seitenloading die Leistung der eingestelleten Anwendung mit Hilfe von [web-vitals-npm-Packet](https://www.npmjs.com/package/web-vitals) 
 (Optional wäre auch die [Chrome-Extension von web-vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) zu installieren) (Dauer: 15 Min)
-1. Wenden Sie ein paar von den in den Folien gennanten Techniken ein (Bildoptimierung , Preloading ...), um die web-vitals zu verbessern und Messen Sie diese erneut. (30 Min)
+1. Wenden Sie ein paar von den in den Folien gennanten Techniken ein (Bildoptimierung/anpassung , Preloading ...), um die web-vitals zu verbessern und Messen Sie diese erneut. (30 Min)
 
 Hinwiese: 
 1. Das Npm-Packet von web-vitals is bereits vorinstalliert.
