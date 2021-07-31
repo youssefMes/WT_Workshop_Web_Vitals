@@ -1,5 +1,5 @@
 ### Aufgabe 2: 
-Optimierung : 30 Min
+Optimierung : 45 Min
 * Die beigefügte Reactjs-Anwendung (Aufgabe2/code) besteht haupsächlich aus vier Dateien (src/App.js, src/Header.js public/index.html, src/App.css ), den Rest kann ignoriert werden, sodass Sie keine ReactJs-Vorkenntnisse brauchen 
 * Installation der Reactjs-Anwendung : 
 ```
