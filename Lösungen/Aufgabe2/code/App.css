@@ -1,0 +1,10 @@
+div.gallery {
+  margin: 50px auto auto;
+}
+div.gallery img {
+  width: auto;
+}
+.column {
+  float: left;
+  width: 50%;
+}
