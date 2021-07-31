@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<!--
+layout: workshop
+titel: Web Vitals
+social-media-untertitel: Asynchronen Workshop
+datum: 2021-07-31
+modul: wt
+autor: Youssef Mestiri
+bild: 
+art: workshop
+termin: 
+dauer: 120-150 Minuten 
+-->
 
-You can use the [editor on GitHub](https://github.com/youssefMes/WT_Workshop_web_vitals/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Web vitals
 
-### Markdown
+Coach: Youssef Mestiri<br>
+Dauer: 120-150 Minuten<br>
+Termin: Asynchronen Workshop<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+Diese Repository beinhaltete die Materialien für den Workshop ["Web Vitals"](https://youssefmes.github.io/WT_Workshop_web_vitals/) für den Kurs Webtechnologien im Master Medieninformatik an der TH Köln im SS 2021.
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+In diesem Workshop wird das Thema *Web vitals* vorgestellt. Dabei werden die Teilnehmer anhand der Folien und Aufgaben lernen was web vitals sind, wie core web vitals gemessen werden können und welche optimierungstechniken es gibt, um die web vitals zu verbessern.
+Dieses Thema beschäftigt sicht mit der Versbesserung der Benutzererfahrung deshalb richtet dieser Workshop sich stärker an Frontendentwickler
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## Vorraussetzungen
+- IDE : Code Editor installieren 
+- Browser:  Chrome
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youssefMes/WT_Workshop_web_vitals/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Vorbereitungen
+- [Github Repo](https://github.com/youssefMes/WT_Workshop_web_vitals) clonen 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Material
+- [Web.dev](https://web.dev/learn-web-vitals/)
+- [Github Repo, Aufgaben](https://github.com/youssefMes/WT_Workshop_web_vitals/tree/main/Aufgaben)
+- [Folien](https://github.com/youssefMes/WT_Workshop_web_vitals/tree/main/Folien) 
+- [Aufzeichnung](https://github.com/youssefMes/WT_Workshop_web_vitals/tree/main/Aufzeichnung)
