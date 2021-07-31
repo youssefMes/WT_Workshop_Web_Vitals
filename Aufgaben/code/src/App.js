@@ -49,7 +49,8 @@ const PHOTO_SET = [
     }
 ];
 function App() {
-  return (
+    useWebVitals();
+    return (
     <>
         <AppBar position="static" color={"primary"}>
             <Toolbar>
